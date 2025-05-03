@@ -124,8 +124,4 @@ After updating the path, just `run all` should work.
 run_holder(ratings_path, users_path, books_path)
 ```
 
----
 
-## License
-
-MIT License. Attribution appreciated.
