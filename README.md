@@ -3,6 +3,7 @@
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Qp71ikDTTWxfd6gIM3yPZ0BDOAb5oEJ8)
 
+[GitHub Repository](https://github.com/kautilyaa/BookWorm.git)
 Use the Colaboratory to run the code.
 ## Overview
 
