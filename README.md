@@ -102,6 +102,8 @@ This setup filters out sparse data by requiring books to have at least 3 ratings
 | 0.80        | 1.4265 | 1.4218 | 1.4405 | 1.4233 | 1.4379 | 1.4675  |
 | 0.85        | 1.4227 | 1.4164 | 1.4144 | 1.4161 | 1.4242 | 1.5271  |
 | 0.90        | 1.4165 | 1.4113 | 1.4094 | 1.4089 | 1.4335 | 1.4475  |
+![Figure plot comparing the results](plot/fig1.png)
+
 
 **Key Observations:**
 
