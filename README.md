@@ -20,6 +20,8 @@ The following CSV files are required:
 * `Users.csv`: Contains user demographic info.
 * `Books.csv`: Contains book metadata.
 
+These files will be there in release.
+
 If you're using **Google Colab**, your file paths may look like:
 
 ```python
@@ -29,6 +31,8 @@ users_path   = "/content/drive/MyDrive/UMD/DATA606/p2/data/Users.csv"
 
 run_holder(ratings_path, users_path, books_path)
 ```
+
+To run the application in BookBuddy please follow the steps the file will be there in release upload it from side menu when running the `streamlit` application.
 
 ---
 
