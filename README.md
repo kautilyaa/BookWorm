@@ -10,9 +10,9 @@ This project implements a **custom Item-Item Collaborative Filtering** algorithm
 
 The following CSV files are required:
 
-* `BX-Book-Ratings.csv`: Contains user ratings for books.
-* `BX-Users.csv`: Contains user demographic info.
-* `BX-Books.csv`: Contains book metadata.
+* `Ratings.csv`: Contains user ratings for books.
+* `Users.csv`: Contains user demographic info.
+* `Books.csv`: Contains book metadata.
 
 If you're using **Google Colab**, your file paths may look like:
 
