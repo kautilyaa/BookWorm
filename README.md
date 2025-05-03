@@ -3,8 +3,7 @@
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Qp71ikDTTWxfd6gIM3yPZ0BDOAb5oEJ8)
 
-[Open in Colab](https://colab.research.google.com/drive/1Qp71ikDTTWxfd6gIM3yPZ0BDOAb5oEJ8)
-
+Use the Colaboratory to run the code.
 ## Overview
 
 This project implements a **custom Item-Item Collaborative Filtering** algorithm to predict user ratings for books they haven't read yet. The model is evaluated using **Mean Absolute Difference (MAD)** across multiple training-test splits and neighborhood sizes (`k`).
