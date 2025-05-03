@@ -1,5 +1,9 @@
 # Book Rating Prediction using Item-Item Collaborative Filtering
 
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]
+(https://drive.google.com/file/d/1Qp71ikDTTWxfd6gIM3yPZ0BDOAb5oEJ8/view?usp=sharing)
+
 ## Overview
 
 This project implements a **custom Item-Item Collaborative Filtering** algorithm to predict user ratings for books they haven't read yet. The model is evaluated using **Mean Absolute Difference (MAD)** across multiple training-test splits and neighborhood sizes (`k`).
