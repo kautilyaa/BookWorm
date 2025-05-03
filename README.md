@@ -5,7 +5,7 @@
 
 [GitHub Repository](https://github.com/kautilyaa/BookWorm.git)
 
-Use the Colaboratory to run the code.
+Use the Colaboratory to run the code for ease. Or download and make changes to path to run it.
 ## Overview
 
 This project implements a **custom Item-Item Collaborative Filtering** algorithm to predict user ratings for books they haven't read yet. The model is evaluated using **Mean Absolute Difference (MAD)** across multiple training-test splits and neighborhood sizes (`k`).
