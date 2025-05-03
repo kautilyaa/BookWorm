@@ -1,8 +1,7 @@
 # Book Rating Prediction using Item-Item Collaborative Filtering
 
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)
-(https://drive.google.com/file/d/1Qp71ikDTTWxfd6gIM3yPZ0BDOAb5oEJ8/view?usp=sharing)]
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Qp71ikDTTWxfd6gIM3yPZ0BDOAb5oEJ8)
 
 [Open in Colab](https://colab.research.google.com/drive/1Qp71ikDTTWxfd6gIM3yPZ0BDOAb5oEJ8)
 
