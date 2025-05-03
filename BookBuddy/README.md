@@ -1,4 +1,4 @@
-# 📚 BookBuddy - Book Recommendation Engine
+# BookBuddy - Book Recommendation Engine
 
 BookBuddy is an interactive web application built with Streamlit that provides personalized book recommendations using item-item collaborative filtering. The application allows users to search for books, get recommendations for similar titles, and explore book data visualizations.
 
